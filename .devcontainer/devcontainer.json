@@ -1,5 +1,5 @@
 {
-    "name": "Site",
+    "name": "Node",
     "image": "node:20",
     "customizations": {
         "vscode": {
