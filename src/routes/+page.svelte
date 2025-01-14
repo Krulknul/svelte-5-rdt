@@ -17,7 +17,7 @@
 <style>
     radix-connect-button {
         position: fixed;
-        top: 10x;
+        top: 10px;
         right: 10px;
         --radix-connect-button-border-radius: 5px;
         --radix-connect-button-width: 36px;
