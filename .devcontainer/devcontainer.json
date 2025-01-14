@@ -1,0 +1,11 @@
+{
+    "name": "Site",
+    "image": "node:20",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "svelte.svelte-vscode"
+            ]
+        }
+    }
+}
